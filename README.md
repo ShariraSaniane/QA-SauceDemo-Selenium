@@ -63,4 +63,4 @@ pytest tests/test_login.py
 #### 📬 Contact
 - Created by: Sharira Saniane
 - GitHub: ShariraSaniane
-- Email: ysharirasaniane95@gmail.com
+- Email: sharirasaniane95@gmail.com
